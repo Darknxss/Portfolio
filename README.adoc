@@ -1,5 +1,5 @@
 = Présentations des compétences BUT
-
+:toc:
 
 == Compétence 1 : Réaliser un développement d'application
 == Compétence 2 : Optimiser des applications informatiques
