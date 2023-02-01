@@ -29,5 +29,14 @@ Architecture réseau : +
 image::images/competence3.png[]
 
 == Compétence 4 : Gérer des données de l’information
+Cette compétence consiste à être capable de Concevoir et mettre en place une base de données à partir d'un cahier des charges client, Optimiser une base de données, intéragir avec une application et mettre en oeuvre la sécurité, et administrer une base de données, concevoir et réaliser des systèmes d'informations décisionnels.
+
+
+=== Réalisation
+J'ai effectué un TP à l'IUT de Blagnac pour pouvoir travailler cette compétence, le but était de creer une architecture d'une base de données, en schéma relationnel.
+
+Schéma relationnel : +
+
+image::images/competence4.png[]
 == Compétence 5 : Conduire un projet
 == Compétence 6 : Travailler dans une équipe informatique
