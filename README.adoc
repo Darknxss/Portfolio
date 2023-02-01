@@ -38,5 +38,12 @@ J'ai effectué un TP à l'IUT de Blagnac pour pouvoir travailler cette compéten
 Schéma relationnel : +
 
 image::images/competence4.png[]
+
 == Compétence 5 : Conduire un projet
+Cette compétence consiste à être capable d'identifier les besoins métiers des clients et des utilisateurs, appliquer une démarche de suivi de projet en fonction des besoins métiers client et des utilisateurs, et participer à la conception et à la mise en oeuvre d'un projet système d'information.
+
+Pour travailler cette compétence, j'ai pu créer une application mobile en répondant à un besoin client lors d'une SAE (3.01).
+Des issues ont été créées pour permettre de s'organiser dans l'équipe.
+Le lien du github relatif au projet de cette SAE : https://github.com/Falsimane/SAE-ALT-S3-Dev-22-23-STDS-3B-Equipe-4
+
 == Compétence 6 : Travailler dans une équipe informatique
