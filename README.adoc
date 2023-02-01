@@ -16,7 +16,7 @@ J'ai effectué un TP à l'IUT de Blagnac. Le but était d'optimiser un programme
 
 Code de la fonction de recherche : +
 
-image::competence2.png[]
+image::images/competence2.png[]
 
 == Compétence 3 : Administrer des systèmes informatiques communicants complexes
 Cette compétence consiste à être capable d'installer et configurer un poste de travail, déployer des services dans une architecture réseau, et faire évoluer et maintenir un système informatique communicant en conditions opérationnelles.
