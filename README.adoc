@@ -9,6 +9,13 @@ Pour travailler cette compétence, j'ai pu créer une application mobile en rép
 Le lien du github relatif au projet de cette SAE : https://github.com/Falsimane/SAE-ALT-S3-Dev-22-23-STDS-3B-Equipe-4
 
 == Compétence 2 : Optimiser des applications informatiques
+Cette compétence consiste à être capable d'appréhender et de construire des algorithmes, de sélectionner les algorithmes adéquats pour répondre à un problème donné, et analyser et optimiser des applications.
+
+=== Réalisation
+J'ai travaillé cette compétence dans un TP réalisé à l'IUT de Blagnac. L'objectif de ce TP était d'installer et configurer une architecture réseau à l'aide du logiciel Cisco Packet Tracer qui permet de simuler une architecture réseau. Pour cette configuration, il m'a donc fallu configurer un serveur DNS, un point d'accès WFIF du LAN, et un serveur DHCP.
+
+Architecture réseau : +
+
 == Compétence 3 : Administrer des systèmes informatiques communicants complexes
 == Compétence 4 : Gérer des données de l’information
 == Compétence 5 : Conduire un projet
