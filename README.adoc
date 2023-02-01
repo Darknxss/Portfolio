@@ -5,7 +5,7 @@
 Cette compétence consiste à être capable de développer des applications informatiques simples, partir des exigences et aller jusqu'a une application complète, et se spécialiser sur un ensemble de supports avec un suivi qualitatif.
 
 === Réalisation
-Pour travailler cette compétence, j'ai pu créer une application mobile en répondant à un besoin client lors d'une SAE (3.01).
+Pour travailler cette compétence, j'ai pu créer une application mobile en répondant à un besoin client lors d'une SAE (3.01). +
 Le lien du github relatif au projet de cette SAE : https://github.com/Falsimane/SAE-ALT-S3-Dev-22-23-STDS-3B-Equipe-4
 
 == Compétence 2 : Optimiser des applications informatiques
@@ -42,8 +42,14 @@ image::images/competence4.png[]
 == Compétence 5 : Conduire un projet
 Cette compétence consiste à être capable d'identifier les besoins métiers des clients et des utilisateurs, appliquer une démarche de suivi de projet en fonction des besoins métiers client et des utilisateurs, et participer à la conception et à la mise en oeuvre d'un projet système d'information.
 
-Pour travailler cette compétence, j'ai pu créer une application mobile en répondant à un besoin client lors d'une SAE (3.01).
-Des issues ont été créées pour permettre de s'organiser dans l'équipe.
+=== Réalisation
+Pour travailler cette compétence, j'ai pu créer une application mobile en répondant à un besoin client lors d'une SAE (3.01). +
+Des issues ont été créées pour permettre de s'organiser dans l'équipe. +
 Le lien du github relatif au projet de cette SAE : https://github.com/Falsimane/SAE-ALT-S3-Dev-22-23-STDS-3B-Equipe-4
 
 == Compétence 6 : Travailler dans une équipe informatique
+Cette compétence consiste à être capable d'identifier ses aptitudes pour travailler dans une équipe, situer son rôle et ses missions au sein d'une équipe informatique, et manager une équipe informatique.
+
+Pour travailler cette compétence, j'ai pu créer une application mobile en répondant à un besoin client lors d'une SAE (3.01). +
+Le projet a été effectué en équipe, une équipe de 5 personnes. +
+Le lien du github relatif au projet de cette SAE : https://github.com/Falsimane/SAE-ALT-S3-Dev-22-23-STDS-3B-Equipe-4
