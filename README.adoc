@@ -15,6 +15,7 @@ Cette compétence consiste à être capable d'appréhender et de construire des 
 J'ai travaillé cette compétence dans un TP réalisé à l'IUT de Blagnac. L'objectif de ce TP était d'installer et configurer une architecture réseau à l'aide du logiciel Cisco Packet Tracer qui permet de simuler une architecture réseau. Pour cette configuration, il m'a donc fallu configurer un serveur DNS, un point d'accès WFIF du LAN, et un serveur DHCP.
 
 Architecture réseau : +
+image::images/competence2.png[]
 
 == Compétence 3 : Administrer des systèmes informatiques communicants complexes
 == Compétence 4 : Gérer des données de l’information
