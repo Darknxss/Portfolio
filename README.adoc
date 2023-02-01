@@ -12,7 +12,11 @@ Le lien du github relatif au projet de cette SAE : https://github.com/Falsimane/
 Cette compétence consiste à être capable d'appréhender et de construire des algorithmes, de sélectionner les algorithmes adéquats pour répondre à un problème donné, et analyser et optimiser des applications.
 
 === Réalisation
-Pour travailler cette compétence, j'ai pu réaliser un TP à l'IUT de Blagnac. Le but était de 
+J'ai effectué un TP à l'IUT de Blagnac. Le but était d'optimiser un programme de récolte de données. Les fonctions de recherches étaient pas optimisées, il fallait les optimiser. Dans ce cas j'ai utilisation des dictionnaires en python.
+
+Code de la fonction de recherche : +
+
+image::competence2.png[]
 
 == Compétence 3 : Administrer des systèmes informatiques communicants complexes
 Cette compétence consiste à être capable d'installer et configurer un poste de travail, déployer des services dans une architecture réseau, et faire évoluer et maintenir un système informatique communicant en conditions opérationnelles.
